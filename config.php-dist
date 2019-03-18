@@ -1,0 +1,11 @@
+<?php
+
+
+// Enter the IP and port number you want the scoket to listen on
+$listenAddress = '192.168.0.1:1234';
+
+$pem_passphrase = '';
+$key = 'key.pem';
+$crt = 'domain.crt';
+
+
